@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/Abstract/BaseCustomerManager.java=UTF-8
+encoding//src/Abstract/ICustomerService.java=UTF-8
+encoding//src/Adapters/MernisServiceAdapter.java=UTF-8
+encoding//src/Concrete/NeroCustomerManager.java=UTF-8
+encoding//src/Concrete/StarbucksCustomerManager.java=UTF-8
+encoding//src/InterfaceAbstractDemo/Main.java=UTF-8
+encoding//src/tr/gov/nvi/tckimlik/WS/KPSPublic.java=UTF-8
+encoding//src/tr/gov/nvi/tckimlik/WS/KPSPublicLocator.java=UTF-8
+encoding//src/tr/gov/nvi/tckimlik/WS/KPSPublicSoap.java=UTF-8
+encoding//src/tr/gov/nvi/tckimlik/WS/KPSPublicSoapStub.java=UTF-8
